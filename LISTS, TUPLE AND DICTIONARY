@@ -1,0 +1,13 @@
+#LIST
+myList = ["sky", "blue","dark"]
+print (myList)
+
+#TUPLE
+myTuple = ("Lion","Tiger","Leopard")
+print (myTuple)
+
+#DICTIONARY
+myDICT{"HERO":"BARUN",
+       "HEROINE":"SANAYA",
+       "SHOW": "IPKKND"}
+print(myDict)
