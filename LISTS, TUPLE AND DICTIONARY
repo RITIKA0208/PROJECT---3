@@ -11,3 +11,4 @@ myDICT{"HERO":"BARUN",
        "HEROINE":"SANAYA",
        "SHOW": "IPKKND"}
 print(myDict)
+del myDict ["HEROINE"]
